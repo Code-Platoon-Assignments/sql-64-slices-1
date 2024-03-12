@@ -34,7 +34,13 @@ For each stage ...
 
 Just getting the data in will require a bit of work! Design a conceptual data model - make an Entity-Relationship diagram - and then use that and the data itself to design your data schema and create a Postgres database and import the data into it.
 
-Severina also wants to know:
+## Stage 2
+
+Continue work on your data schema, so it is complete and has all the data in it so you'll be ready to write SQL Queries for Stage 3. 
+
+## Stage 3
+
+If you have not, Severina would like some basic analytics about her business:
 
 - How many drivers she has.
 - How many deliveries has each store made?
@@ -42,18 +48,14 @@ Severina also wants to know:
 - Which driver did the shortest delivery?
 - Which driver did the longest delivery?
 
-## Stage 2
-
-Severina would like some more analytics!
+... she would also like to know:
 
 - How much did money did they make on each order?
 - Which store made the most money?
 - Which customer spent the most money?
 - How much money did they make each month?
-
-## Stage 3
-
-Severina is curious about her drivers ...
+  
+Severina is also curious about her drivers ...
 
 - Which driver, on average, takes the longest?
 - Which driver, on average, is the quickest?
